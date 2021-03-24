@@ -28,3 +28,4 @@ ArAr+(3s-1) state
   Method:    nD-ADC(3)
   Basis set: cc-pVTZ augmented with a set of 3s, 3p, and 3d functions of the KBJ-type
   Reference: JCP 146, 104305 (2017)
+  NIST: shifted to the NIST value of 29.2393635 eV (Ar+ 3s 13.47945... + Ar+ 3p 15.759...) at 30 Angstroms
