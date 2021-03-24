@@ -20,7 +20,7 @@ Ar+(3p-1) - Ar+(3p-1) states
   Reference: JCP 141, 064307 (2014)
 
 ArAr+*(3p-2 nl) states
-  Method:
+  Method:    CISD
   Basis set:
   
   
@@ -29,3 +29,8 @@ ArAr+(3s-1) state
   Basis set: cc-pVTZ augmented with a set of 3s, 3p, and 3d functions of the KBJ-type
   Reference: JCP 146, 104305 (2017)
   NIST: shifted to the NIST value of 29.2393635 eV (Ar+ 3s 13.47945... + Ar+ 3p 15.759...) at 30 Angstroms
+
+Ar+Ar* (3p-1 4s) and Ar+Ar*(3p-1 4p) states (Sigma_g+ and Sigma_u+ only)
+  MethodL     nD-ADC(3)
+  Basis set:  cc-pVTZ augmented with a set of 3s, 3p, and 3d functions of the KBJ-type
+  Reference: JCP 146, 104305 (2017)
